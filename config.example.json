@@ -1,0 +1,11 @@
+{
+  "rpc_endpoints": [
+    "https://api.mainnet-beta.solana.com",
+    "https://solana-rpc.publicnode.com"
+  ],
+  "min_profit_threshold_sol": 0.005,
+  "base_priority_fee_lamports": 50000,
+  "slippage_bps": 50,
+  "developer_fee_wallet": "7kz1mcQcaZhYzFUHBFHH6s5tGrDHc7gNhN5WAUyXyq5r",
+  "platform_fee_bps": 50
+}
